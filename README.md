@@ -1,3 +1,4 @@
+### This is a sample model ###
 # DNA Sequence Classifier
 
 This project utilizes deep learning models to classify regions of a DNA sequence into 'Gene' or 'Non-Gene'. It leverages a pre-trained model from Hugging Face's transformers library specifically designed for DNA sequence analysis.
@@ -9,7 +10,9 @@ Before running this script, ensure you have the following:
 - PyTorch
 - Transformers library by Hugging Face
 - BioPython
-
+Download the files:
+Fasta file: 
+GTF File: 
 ## Installation
 
 To set up your environment to run the script, follow these steps:
