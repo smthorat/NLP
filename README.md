@@ -11,8 +11,8 @@ Before running this script, ensure you have the following:
 - Transformers library by Hugging Face
 - BioPython
 Download the files:
-Fasta file: 
-GTF File: 
+Fasta file: https://hgdownload.soe.ucsc.edu/goldenPath/hs1/bigZips/
+GTF File: https://hgdownload.soe.ucsc.edu/goldenPath/hs1/bigZips/genes/
 ## Installation
 
 To set up your environment to run the script, follow these steps:
@@ -20,6 +20,7 @@ To set up your environment to run the script, follow these steps:
 1. Install PyTorch:
    ```bash
    pip install torch
+   
 
 Usage
 
